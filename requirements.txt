@@ -21,3 +21,5 @@ cachetools~=5.3.3
 estndv==0.0.2
 sqlglot==25.4.1
 pydantic==2.10.4
+coverage==7.4.3
+codecov==2.1.13
